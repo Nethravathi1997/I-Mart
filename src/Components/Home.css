@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.home {
+  text-align: center;
+}
+
+/* Hero section */
+.hero {
+  background: url('https://images.unsplash.com/photo-1505740420928-5e560c06d30e') center/cover no-repeat;
+  color: white;
+  padding: 100px 20px;
+}
+.hero-content {
+  background: rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  padding: 20px;
+  border-radius: 8px;
+}
+.hero-content h1 {
+  font-size: 3em;
+  margin: 0 0 20px;
+}
+.hero-content p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+.hero-content button {
+  font-size: 1em;
+  padding: 10px 20px;
+  background-color: #e67e22;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+.hero-content button:hover {
+  background-color: #cf711f;
+}
+
+/* Features section */
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #f8f8f8;
+  padding: 50px 20px;
+}
+.feature {
+  flex: 1 1 200px;
+  max-width: 200px;
+  margin: 20px;
+}
+.feature img {
+  width: 64px;
+  margin-bottom: 15px;
+}
+.feature h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+.feature p {
+  color: #555;
+  font-size: 0.95em;
+}
+
+/* About section */
+.about {
+  padding: 50px 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.about h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+.about p {
+  font-size: 1em;
+  line-height: 1.5;
+  color: #333;
+}
+
+/* Call-to-Action section */
+.cta {
+  background-color: #e67e22;
+  color: white;
+  padding: 50px 20px;
+}
+.cta h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+.cta button {
+  font-size: 1em;
+  padding: 10px 25px;
+  background-color: white;
+  color: #e67e22;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.cta button:hover {
+  background-color: #f2f2f2;
+}

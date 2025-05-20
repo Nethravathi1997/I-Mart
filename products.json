@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "58d7",
+      "name": "bulb",
+      "price": "100",
+      "image": "https://img.freepik.com/free-vector/realistic-light-bulb-with-electricity_23-2149129410.jpg"
+    },
+    {
+      "id": "0328",
+      "name": "Toy train",
+      "price": "23000",
+      "image": "https://m.media-amazon.com/images/I/916QNAULGaL.jpg"
+    },
+    {
+      "id": "486a",
+      "name": "Binocular",
+      "price": "3000",
+      "image": "https://m.media-amazon.com/images/I/81WpncCE+EL.jpg"
+    },
+    {
+      "id": "16e2",
+      "name": "drum",
+      "price": "300",
+      "image": "https://m.media-amazon.com/images/I/71trdv6ZGhL.jpg"
+    },
+    {
+      "id": "c13e",
+      "name": "speactacles",
+      "price": "4000",
+      "image": "https://www.glassesindia.com/cdn/shop/products/Small-Round-Progressive-Reading-Glasses-for-Computers-3.jpg?v=1666695454&width=1445"
+    },
+    {
+      "id": "8d84",
+      "name": "WEFAER34",
+      "price": 0,
+      "image": "https://www.glassesindia.com/cdn/shop/products/Small-Round-Progressive-Reading-Glasses-for-Computers-3.jpg?v=1666695454&width=1445"
+    },
+    {
+      "id": "06f5",
+      "name": "swim dress",
+      "price": "1000",
+      "image": "https://rukminim3.flixcart.com/image/850/1000/xif0q/swimsuit/h/p/q/m-owsd-333-viva-swimming-original-imahyjmv3jmdwqag.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "6f06",
+      "name": "obbattu",
+      "price": "25",
+      "image": "https://farm8.staticflickr.com/7611/16249828853_d8dc8edb8b_o.jpg"
+    }
+  ]
+}
